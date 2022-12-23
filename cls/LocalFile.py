@@ -2,7 +2,6 @@
 
 import datetime
 import os
-
 class LocalFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接内容
 
     # 从本地文本文件中读取字符串
