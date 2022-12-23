@@ -34,19 +34,3 @@ https://dweb.link/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v93
 ipfs_auto_url
 - http://80.209.232.137:8080/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
 - https://dweb.link/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
-
-## 📧 更新推送
-
-- https://t.me/opmhth
-- ![telegram](./res/telegram-0.PNG)
-- 扫码加交流群
-
-## ⭐ Speed
-
-![images](./res/d181a7d1ab093.PNG)
-![images](./res/9bdda546eeb40.PNG)
-
-## ⭐ 特别感谢
-
-- https://github.com/codingbox/Free-Node-Merge
-- https://github.com/animalize/qqwry-python3
