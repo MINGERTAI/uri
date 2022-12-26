@@ -1267,3 +1267,4 @@
 [2022-12-22 12:28:47] 404:{"key":"mtv_xp_Nike影视","name":"切片┃Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-Nike影视.json"},
 [2022-12-23 19:10:01] 0:{"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","searchable":0,"quickSearch":0},
 [2022-12-24 17:27:26] 0:{"key":"csp_xml___共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+[2022-12-26 18:11:51] 0:{"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
