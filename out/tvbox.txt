@@ -1,7 +1,7 @@
 {
-//Update:2022-12-26 08:48:48.250130
+//Update:2022-12-26 10:14:10.318894
 
-"spider":"ttps://raw.iqiq.io/MINGERTAI/uri/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
+"spider":"https://raw.iqiq.io/MINGERTAI/uri/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
@@ -347,7 +347,7 @@
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4聚合","name":"🎯T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py","name":"py接口(打开储存权限)⬇","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json", "jar": "https://raw.iqiq.io/MINGERTAI/iurl/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
+{"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json", "jar": "https://raw.iqiq.io/MINGERTAI/uri/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
 {"key":"mtv_pc_动漫巴士","name":"爬虫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_儿童乐园","name":"哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-儿童乐园.json"},
