@@ -1,5 +1,5 @@
 {
-//Update:2023-01-03 16:21:15.159924
+//Update:2023-01-03 18:20:43.059378
 
 "spider":"https://raw.iqiq.io/MINGERTAI/uri/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -39,7 +39,6 @@
 {"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
-{"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
