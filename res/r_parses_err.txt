@@ -317,3 +317,4 @@
 [2023-01-03 08:41:26] 0:{"name":"多多①线","type":0,"url":"https://jx.xmflv.com/?url="},
 [2023-01-03 18:11:07] 0:{"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 [2023-01-06 18:11:28] 0:{"name":"全民1","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+[2023-01-08 08:44:25] 0:{"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="},
