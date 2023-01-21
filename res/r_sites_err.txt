@@ -1265,3 +1265,5 @@
 [2022-12-22 12:28:44] 404:{"key":"mtv_xp_焦炭影视","name":"切片┃焦炭影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-焦炭影视.json"},
 [2022-12-22 12:28:45] 404:{"key":"mtv_xp_厂长直链","name":"切片┃厂长直链","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-厂长直链.json"},
 [2022-12-22 12:28:47] 404:{"key":"mtv_xp_Nike影视","name":"切片┃Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-Nike影视.json"},
+[2023-01-21 15:17:52] 0:{"key":"csp_appysv2_夕阳影视","name":"夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
+[2023-01-21 15:18:35] 0:{"key":"csp_appysv2_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
