@@ -1269,3 +1269,4 @@
 [2023-01-21 15:18:35] 0:{"key":"csp_appysv2_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 [2023-01-22 06:06:22] 0:{"key":"csp_xpath_球迷直播","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
 [2023-01-24 05:03:51] 0:{"key":"香瓜影视","name":"香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2023-01-24 15:02:43] 404:{"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
