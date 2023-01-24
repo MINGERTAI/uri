@@ -313,3 +313,4 @@
 [2023-01-21 15:15:30] 0:{"name":"优众2","type":1,"url":"https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 [2023-01-23 01:03:54] 0:{"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
 [2023-01-23 01:05:54] 0:{"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
+[2023-01-24 09:18:19] 0:{"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
