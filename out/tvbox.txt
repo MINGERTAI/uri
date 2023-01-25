@@ -1,5 +1,5 @@
 {
-//Update:2023-01-25 17:41:33.906997
+//Update:2023-01-25 19:24:57.109896
 
 "spider":"https://raw.iqiq.io/MINGERTAI/uri/main/jar/ustom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -37,7 +37,6 @@
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},
-{"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
