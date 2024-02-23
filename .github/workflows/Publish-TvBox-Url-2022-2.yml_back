@@ -25,19 +25,19 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Set System Timezone'
+      - name: '设置系统时区'
         run: 
           sudo timedatectl set-timezone Asia/Shanghai
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: 'Set up Python'
-        uses: actions/setup-python@v1
+      - name: '设置Python'
+        uses: actions/setup-python@v5
         with:
-           python-version: 3.7
+           python-version: '3.10'
 
-      - name: 'Install requirements'
+      - name: '安装需求'
         run: |
           #pip install requests
           #python -m pip install -U wheel
@@ -46,7 +46,7 @@ jobs:
           sudo -E apt-get -qq install inetutils-ping
           pip install -r ./res/requirements.txt
 
-      - name: 'Update expires Url'
+      - name: '更新过期 Url'
         id: upexpire
         env:
           #RESURL = 'https://cf-ipfs.com/ipns/k2k4r8n10q07nqe02zysssxw1b9qboab0dd3ooljd32i9ro3edry6hv6/'
@@ -66,7 +66,7 @@ jobs:
           #echo "::set-output name=status::success"
           echo "status=success" >> $GITHUB_OUTPUT
 
-      - name: 'Merge tvurl'
+      - name: '合并 tvurl'
         id: checkurl
         env:
           RESURL: ${{ secrets.RESURL }}
@@ -76,7 +76,7 @@ jobs:
           #echo "::set-output name=status::success"
           echo "status=success" >> $GITHUB_OUTPUT
 
-      - name: 'Compare new file with old file MD5'
+      - name: '将新文件与旧文件用 MD5 进行比较'
         id: diff
         run: |
           file1=./out/all
